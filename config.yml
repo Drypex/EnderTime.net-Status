@@ -37,10 +37,6 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
     - name: Website
       description: The web frontend for the application.
       category: Uncategorized
@@ -59,6 +55,9 @@ params:
   logo: /img/3-klein.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: test
+      link: test
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
