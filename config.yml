@@ -2,7 +2,7 @@ title: EnderTime.net Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://share.endertime.net
+baseURL: https://endertime.net
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
